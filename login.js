@@ -9,3 +9,5 @@ function sum(num1, num2) {
 
 var i = 0;
 console.log(i);
+var j = 0;
+console.log(j);
